@@ -25,6 +25,7 @@ import org.apache.camel.spi.UriParams;
 public class QueueServiceConfiguration extends AbstractConfiguration {
 
     private String queueName;
+    
     @UriParam
     private CloudQueue azureQueueClient;
     

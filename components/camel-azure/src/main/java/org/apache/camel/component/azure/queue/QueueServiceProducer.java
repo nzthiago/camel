@@ -77,8 +77,7 @@ public class QueueServiceProducer extends DefaultProducer {
             default:
                 throw new IllegalArgumentException("Unsupported operation");
             }
-        }
-             
+        }            
     }
     
     private void listQueues(Exchange exchange) throws Exception {

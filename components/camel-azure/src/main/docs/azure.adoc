@@ -1,8 +1,8 @@
-[[Azure-CamelComponentsforWindowsAzureServices]]
-Camel Components for Windows Azure Services
+[[Azure-CamelComponentsforMicrosoftAzureServices]]
+Camel Components for Microsoft Azure Services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The Camel Components for https://azure.microsoft.com/[Windows Azure Services]
+The Camel Components for https://azure.microsoft.com/[Microsoft Azure Services]
 provide connectivity to Azure services from Camel.
 
  
